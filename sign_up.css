@@ -4,6 +4,7 @@
     flex-direction: column;
     align-items: center;
     font-family: 'Lato', sans-serif;
+    margin-top: 60px;
 }
 .subhead {
     font-family: Lato;
@@ -39,4 +40,9 @@ label {
     border: none;
     width: 42%;
     border-radius: 4px;
+}
+.signin {
+    font-style: italic;
+    font-size: 14px;
+    color: #4F4F4F;
 }
