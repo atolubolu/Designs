@@ -46,6 +46,10 @@ label {
     font-size: 14px;
     color: #4F4F4F;
 }
+.link {
+    color: #7557D3;
+    text-decoration: underline;
+}
 @media screen and (max-width: 425px) {
     .inputs {
         flex-direction: column;
